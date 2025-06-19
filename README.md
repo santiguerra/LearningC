@@ -8,7 +8,7 @@ These are the projects I've completed throughout my apprenticeship, from 1 (the 
    In this project, I learned how to interact with the user in the console. So, I asked the user how many shells they wanted.
 
 2. **Learning**  
-   Here, I explored data types (e.g., `char`, `int`, `float`, `double`) and how to display variables storing these types in the console.
+   Here, I explored data types (e.j., `char`, `int`, `float`, `double`) and how to display variables storing these types in the console.
 
 3. **Strings**  
    I learned how to store strings in variables, which are mostly user responses. This taught me how to request and store them effectively.
@@ -28,7 +28,7 @@ These are the projects I've completed throughout my apprenticeship, from 1 (the 
 8. **FindANumber**  
    To conclude, I developed a mini-game where you guess a randomly chosen number in 7 attempts, with clues to guide you (up, down, close, or far).
 
-## Requisitos
+## Requirements
 - A C compiler (gcc).
 - A terminal to run the programs.
 
